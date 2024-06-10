@@ -53,5 +53,5 @@ Contributing
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
 
 Contact
-For inquiries, please contact <a href="mailto:manjunathadvg2002@gmail.com">manojkumarhn2001@gmail.com</a>
+For inquiries, please contact <a href="mailto:manjunathadvg2002@gmail.com">manjunathadvg2002@gmail.com</a>
 
